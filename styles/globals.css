@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Jacquard+12+Charted&family=Jacquard+24&family=Jersey+10+Charted&family=Kode+Mono:wght@400..700&family=Silkscreen:wght@400;700&display=swap');
+@tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  
+
+  .kode-bold {
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+  .kode {
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .jacquard-strip {
+    font-family: "Jacquard 12 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .jacquard {
+    font-family: "Jacquard 24", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .cinzel {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
